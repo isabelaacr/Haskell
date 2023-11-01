@@ -1,4 +1,7 @@
-![1](https://github.com/isabelaacr/Haskell/assets/118640598/3bd4b9af-1369-45c1-963d-5bf88ca373fc)
+# Repositório 
+  A priori, criei este repositório para sintetizar o conteúdo de Programação Funcional disponibilizado pela professora da disciplina de Paradigmas de Programação em um formato de slides com templates interativos e que facilitassem o estudo para a avaliação da disciplina. Ao iniciar os estudos de Haskell, aprendi sobre funções pré-definidas e a melhor desenvolver funções com seus respectivos nomes, valores e tipos.
+
+# O que é programação funcional?
 
 # Haskell
 Linguagem de programação funcional. Permite que o usuário crie suas próprias funções, associando nomes, valores e tipos.
