@@ -50,7 +50,18 @@ Funções que recebem outras funções como argumento e/ou produzem funções co
 - Quanto a função map, esta aplica a função a cada elemento da lista, inserindo cada resultado na lista resultante. Ou seja, "mapeia" os elementos da lista de entrada e os insere na lista resultante.
 - Sobre a função filter, utiliza de uma função booleana e uma lista para que sua saída sejam apenas os elementos que sejam verdadeiros (true). Ou seja, filtra os elementos de uma lista e seu resultado será referente a função booleana em cada elemento da lista, sendo de tamanho igual ou inferior ao da lista de entrada.
 
+#### Função zipWith
+  A função zipWith recebe uma função e duas listas como argumento, para que seja aplicado a função a cada par de elementos correspondentes nas duas listas recebidas, produzindo outra lista como saída.
+  
+![FUNÇÃO ZIPWITH](https://github.com/isabelaacr/Paradigma-Haskell/assets/118640598/54931d35-b50e-4caa-8fe9-45cb009e7449)
 
+No exemplo consta: add x y = x + y
+Ao aplicar: zipWith add [10,11,12] [1,2,3]
+Foi somado 10+1, 11+2, 12+3, resultando a nova lista: [11,13,15]
+
+#### Função lambda
+
+![LAMBDA](https://github.com/isabelaacr/Paradigma-Haskell/assets/118640598/84cbf479-1ffe-4c1a-adad-68c01a5103e6)
 
 
 ## Referências:
