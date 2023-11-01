@@ -3,7 +3,7 @@
 ![domínios de aplicação](https://github.com/isabelaacr/Paradigma-Haskell/assets/118640598/a1422a37-ea6b-4863-a58a-160a7e8541e8)
 
 # Repositório 
-  A priori, criei este repositório para sintetizar o conteúdo de Programação Funcional disponibilizado pela docente da disciplina de Paradigmas de Programação em um formato de slides com templates interativos e que facilitassem o estudo para a avaliação da disciplina. Ao iniciar os estudos de Haskell, aprendi sobre funções pré-definidas e a melhor desenvolver funções com seus respectivos nomes, valores e tipos.
+  A priori, criei este repositório para sintetizar o conteúdo de Programação Funcional disponibilizado pela docente da disciplina de Paradigmas de Programação em um formato de slides com templates interativos e que facilitassem o estudo para a avaliação da disciplina. Ao iniciar os estudos de Haskell, aprendi sobre funções pré-definidas e a melhor desenvolver funções com seus respectivos nomes, valores e tipos. Na aba "Issues" se encontra as imagens utilizadas e também um resumo digital que fiz a mão.
 
 # O que é programação funcional?
   A programação funcional é um paradigma de programação na qual vincula funções matemáticas puras.
