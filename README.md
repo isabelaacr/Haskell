@@ -40,7 +40,7 @@ nomefunc arg1 ... argn = expressão
 
 ![SINTAXE (2)](https://github.com/isabelaacr/Haskell/assets/118640598/0bd5f3c9-4c99-4878-a974-d7536f0bfcb0)
 
-## Funções de alta ordem (higher order)!
+## Funções de alta ordem (higher order)
 Funções que recebem outras funções como argumento e/ou produzem funções como resultado.
 
 ##### Exemplos: map e filter
@@ -49,6 +49,8 @@ Funções que recebem outras funções como argumento e/ou produzem funções co
 
 - Quanto a função map, esta aplica a função a cada elemento da lista, inserindo cada resultado na lista resultante. Ou seja, "mapeia" os elementos da lista de entrada e os insere na lista resultante.
 - Sobre a função filter, utiliza de uma função booleana e uma lista para que sua saída sejam apenas os elementos que sejam verdadeiros (true). Ou seja, filtra os elementos de uma lista e seu resultado será referente a função booleana em cada elemento da lista, sendo de tamanho igual ou inferior ao da lista de entrada.
+
+## Outras funções
 
 #### Função zipWith
   A função zipWith recebe uma função e duas listas como argumento, para que seja aplicado a função a cada par de elementos correspondentes nas duas listas recebidas, produzindo outra lista como saída.
@@ -63,6 +65,17 @@ Foi somado 10+1, 11+2, 12+3, resultando a nova lista: [11,13,15]
 
 ![LAMBDA](https://github.com/isabelaacr/Paradigma-Haskell/assets/118640598/84cbf479-1ffe-4c1a-adad-68c01a5103e6)
 
+#### Função left...in
+
+![FUNÇÃO LEFT IN](https://github.com/isabelaacr/Paradigma-Haskell/assets/118640598/a12fd9bb-adc5-4b3c-a430-52c2b7b6c422)
+
+#### Função where
+
+![Função Where](https://github.com/isabelaacr/Paradigma-Haskell/assets/118640598/561aad43-d6d2-44ab-9acb-43db4842721e)
+
+## List comprehension
+
+![list comprehension](https://github.com/isabelaacr/Paradigma-Haskell/assets/118640598/e4288ea8-da72-4f19-bae3-0e10a020581d)
 
 ## Referências:
 [1] Material disponibilizado em aula
