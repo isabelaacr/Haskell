@@ -66,15 +66,17 @@ Ao aplicar: zipWith add [10,11,12] [1,2,3]
 Foi somado 10+1, 11+2, 12+3, resultando a nova lista: [11,13,15]
 
 ### Função lambda
+Em resumo, a função lambda é uma maneira de sintetizar as equações, não sendo necessário a inclusão de um nome para a função.
 
 ![LAMBDA](https://github.com/isabelaacr/Paradigma-Haskell/assets/118640598/84cbf479-1ffe-4c1a-adad-68c01a5103e6)
 
 ### Função left...in
+Ao meu ver, a função left..in organiza a função de modo que:  dado os valores das variavés em: let x =..., y=..., coloca as variáveis equivalentes a expressão em in para que seja realizado o cálculo entre elas.
 
 ![FUNÇÃO LEFT IN](https://github.com/isabelaacr/Paradigma-Haskell/assets/118640598/a12fd9bb-adc5-4b3c-a430-52c2b7b6c422)
 
 #### Função where
-
+Onde esteja ... realizar função da expressão
 ![Função Where](https://github.com/isabelaacr/Paradigma-Haskell/assets/118640598/561aad43-d6d2-44ab-9acb-43db4842721e)
 
 ## List comprehension
