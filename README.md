@@ -86,6 +86,7 @@ Onde esteja ... realizar função da expressão
 ## Referências:
 [1] Material disponibilizado em aula
 [2] https://www.inf.ufpr.br/andrey/ci062/ProgramacaoHaskell.pdf
+[3] Robert Sebesta. Conceitos de Linguagens de Programação. Bookman, 2018.
 
 
 
