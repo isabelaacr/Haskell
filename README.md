@@ -4,9 +4,7 @@
 # O que é programação funcional?
 
 # Haskell
-Linguagem de programação funcional. Permite que o usuário crie suas próprias funções, associando nomes, valores e tipos.
-
-"Um comando em Haskell é uma fórmula escrita na sintaxe da linguagem."
+Linguagem de programação funcional. "Um comando em Haskell é uma fórmula escrita na sintaxe da linguagem."
 
 ![O que é](https://github.com/isabelaacr/Haskell/assets/118640598/0b1f22b8-cbff-42f3-8b59-3054011b1ae4)
 
