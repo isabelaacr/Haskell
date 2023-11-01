@@ -3,7 +3,7 @@
 ![domínios de aplicação](https://github.com/isabelaacr/Paradigma-Haskell/assets/118640598/a1422a37-ea6b-4863-a58a-160a7e8541e8)
 
 # Repositório 
-  A priori, criei este repositório para sintetizar o conteúdo de Programação Funcional disponibilizado pela professora da disciplina de Paradigmas de Programação em um formato de slides com templates interativos e que facilitassem o estudo para a avaliação da disciplina. Ao iniciar os estudos de Haskell, aprendi sobre funções pré-definidas e a melhor desenvolver funções com seus respectivos nomes, valores e tipos.
+  A priori, criei este repositório para sintetizar o conteúdo de Programação Funcional disponibilizado pela docente da disciplina de Paradigmas de Programação em um formato de slides com templates interativos e que facilitassem o estudo para a avaliação da disciplina. Ao iniciar os estudos de Haskell, aprendi sobre funções pré-definidas e a melhor desenvolver funções com seus respectivos nomes, valores e tipos.
 
 # O que é programação funcional?
   A programação funcional é um paradigma de programação na qual vincula funções matemáticas puras.
@@ -46,6 +46,11 @@ Funções que recebem outras funções como argumento e/ou produzem funções co
 ##### Exemplos: map e filter
 
 ![fUNÇÕES DE ALTA ORDEM](https://github.com/isabelaacr/Haskell/assets/118640598/ea2c4064-e2f9-4ed5-9508-6443aa076c5e)
+
+- Quanto a função map, esta aplica a função a cada elemento da lista, inserindo cada resultado na lista resultante. Ou seja, "mapeia" os elementos da lista de entrada e os insere na lista resultante.
+- Sobre a função filter, utiliza de uma função booleana e uma lista para que sua saída sejam apenas os elementos que sejam verdadeiros (true). Ou seja, filtra os elementos de uma lista e seu resultado será referente a função booleana em cada elemento da lista, sendo de tamanho igual ou inferior ao da lista de entrada.
+
+
 
 
 ## Referências:
