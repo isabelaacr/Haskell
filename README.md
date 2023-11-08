@@ -84,6 +84,14 @@ Recurso inspirado na representação de conjuntos em matemática.
 
 ![list comprehension](https://github.com/isabelaacr/Paradigma-Haskell/assets/118640598/e4288ea8-da72-4f19-bae3-0e10a020581d)
 
+## Tuplas
+Sequência de elementos entre parênteses, separados por vírgula.
+Para tuplas com apenas 2 elementos, podemos obter o primeiro ou o segundo com as funções fst e snd. Com mais de 2 elementos, utiliza-se lambda. Por exemplo: 
+
+```Haskell
+ghci> (\(n,lat,long) -> long) ("Reitoria",-29.72083,-53.71479)
+-53.71479
+```
 ## Referências:
 [1] Material disponibilizado em aula
 [2] https://www.inf.ufpr.br/andrey/ci062/ProgramacaoHaskell.pdf
