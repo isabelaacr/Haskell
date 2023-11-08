@@ -80,6 +80,7 @@ Onde esteja ... realizar função da expressão
 ![Função Where](https://github.com/isabelaacr/Paradigma-Haskell/assets/118640598/561aad43-d6d2-44ab-9acb-43db4842721e)
 
 ## List comprehension
+Recurso inspirado na representação de conjuntos em matemática.
 
 ![list comprehension](https://github.com/isabelaacr/Paradigma-Haskell/assets/118640598/e4288ea8-da72-4f19-bae3-0e10a020581d)
 
