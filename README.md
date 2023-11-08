@@ -71,7 +71,7 @@ Em resumo, a função lambda é uma maneira de sintetizar as equações, não se
 ![LAMBDA](https://github.com/isabelaacr/Paradigma-Haskell/assets/118640598/84cbf479-1ffe-4c1a-adad-68c01a5103e6)
 
 ### Função left...in
-Ao meu ver, a função left..in organiza a função de modo que:  dado os valores das variavés em: let x =..., y=..., coloca as variáveis equivalentes a expressão em in para que seja realizado o cálculo entre elas.
+Ao meu ver, a função left..in organiza a função de modo que:  dado os valores das variavés em: let x =..., y=..., colocando as variáveis equivalentes a expressão em in para que seja realizado o cálculo entre elas.
 
 ![FUNÇÃO LEFT IN](https://github.com/isabelaacr/Paradigma-Haskell/assets/118640598/a12fd9bb-adc5-4b3c-a430-52c2b7b6c422)
 
